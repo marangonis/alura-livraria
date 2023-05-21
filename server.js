@@ -1,5 +1,5 @@
 import app from './src/app.js';
-// teste
+// teste funcionou beleza
 
 const port = process.env.PORT || 3000;
 
